@@ -1,6 +1,6 @@
 package com.basic;
 
-public class dream {
+public class Count {
 	public static void main(String s[])
 	{
 	int x = 1,
