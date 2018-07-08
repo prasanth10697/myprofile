@@ -1,6 +1,6 @@
 package com.basic;
 
-public class green
+public class Numbers
 {
 
 public static void main(String s[])
