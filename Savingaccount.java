@@ -1,6 +1,6 @@
 package com.basic;
 
-public class savingaccount {
+public class Savingaccount {
 public static int annualInterestRate;
 double savingbalance;
 public void savingMonthlyInterest(double balance)
