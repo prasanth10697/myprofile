@@ -1,6 +1,6 @@
 package com.basic;
 
-public class blue 
+public class Stars
 	{
 		public static void main( String[] args )
 		{
