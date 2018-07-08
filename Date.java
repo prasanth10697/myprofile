@@ -1,6 +1,6 @@
 package com.basic;
 
-public class date {
+public class Date {
 	  int day;
 	  int year;
 	  int month;
