@@ -1,6 +1,6 @@
 package com.basic;
 
-public class numbers
+public class CountNumbers
 {
   public static void main(String s[])
 {
