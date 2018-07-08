@@ -1,6 +1,6 @@
 package com.basic;
 
-public class sample
+public class Sample
 {
 	public static void main (String s[])
 
