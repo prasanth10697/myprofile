@@ -1,6 +1,6 @@
 package com.basic;
 
-public class admin {
+public class SumofTwoNUmbers {
 public static void main(String args[])
 {
 	int sum = 0;
