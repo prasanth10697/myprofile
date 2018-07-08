@@ -1,6 +1,6 @@
 package com.basic;
 
-public class invoice {
+public class Invoice {
 
 		String  partnumber;
 		String discription;
