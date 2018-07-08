@@ -1,6 +1,6 @@
 package com.basic;
 
-public class runs {
+public class RowsColum {
 	
 		public static void main( String[] args )
 		{
