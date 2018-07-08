@@ -1,6 +1,6 @@
 package com.basic;
 
-public class ten 
+public class SampleX
 	{
 		public static void main( String[] args )
 		{
